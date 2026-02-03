@@ -61,7 +61,8 @@ Css clamp() will definitely be used going forward.
 - [CSS w3schools](https://www.w3schools.com/css/) -  Helpful in learning about css and recapping on information already known.
 
 ## Acknowledgments
-Mauro
-Gabriella
-Dylan
+Mauro,
+Gabriella,
+Dylan,
+Softserve.
 
